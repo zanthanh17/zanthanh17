@@ -41,6 +41,3 @@
   </tr>
 </table>
 
-# Certificates:
-
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
