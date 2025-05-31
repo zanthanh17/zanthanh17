@@ -11,8 +11,6 @@ Passionate about designing, programming, and optimizing hardware-software system
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🧰 Tools
-![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-00BFFF?style=flat&logo=stmicroelectronics&logoColor=white)
-![IAR](https://img.shields.io/badge/IAR-FF6600?style=flat&logo=iar-systems&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat&logo=platformio&logoColor=white)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF0000?style=flat&logo=espressif&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
