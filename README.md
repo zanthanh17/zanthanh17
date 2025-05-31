@@ -4,14 +4,43 @@
 Passionate about designing, programming, and optimizing hardware-software systems.
 
 ## 🛠️ Skills & Technologies
-- **Languages:** C, C++, Python
-- **Tools:** STM32CubeMX, IAR, PlatformIO, ESP-IDF
-- **Platforms:** STM32, ESP32, AVR, ARM Cortex-M, Arduino
-- **Interests:** Firmware development, Real-time systems, IoT, robotics, PCB design
+
+### 🖥️ Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 🧰 Tools
+![STM32CubeMX](https://img.shields.io/badge/STM32CubeMX-00BFFF?style=flat&logo=stmicroelectronics&logoColor=white)
+![IAR](https://img.shields.io/badge/IAR-FF6600?style=flat&logo=iar-systems&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=flat&logo=platformio&logoColor=white)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-FF0000?style=flat&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![YOLOv4](https://img.shields.io/badge/YOLOv4-FFEA00?style=flat&logo=opencv&logoColor=black)
+![Yocto Project](https://img.shields.io/badge/Yocto%20Project-000000?style=flat&logo=yocto&logoColor=white)
+
+### ⚡ Platforms
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-000000?style=flat&logo=atmel&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-0091BD?style=flat&logo=arm&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+
+### 🌟 Interests
+- Firmware development
+- Real-time systems
+- IoT
+- Robotics
+- PCB design
+- Embedded Linux
+- Computer vision (YOLOv4, OpenCV)
+- Custom Linux distributions (Yocto Project)
 
 ## 🚀 About Me
 - I enjoy solving complex problems at the intersection of hardware and software.
 - Experienced in low-level firmware, device drivers, and hardware bring-up.
+- Comfortable with embedded Linux, custom Linux builds (Yocto), and AI/vision tasks on single-board computers.
 - Advocate for clean code and robust embedded architectures.
 
 ## 📫 Let's Connect!
