@@ -18,6 +18,9 @@ Passionate about designing, programming, and optimizing hardware-software system
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![YOLOv4](https://img.shields.io/badge/YOLOv4-FFEA00?style=flat&logo=opencv&logoColor=black)
 ![Yocto Project](https://img.shields.io/badge/Yocto%20Project-000000?style=flat&logo=yocto&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-0052CC?style=flat&logo=uipath&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-00007D?style=flat&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-352744?style=flat)
 
 ### ⚡ Platforms
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
@@ -31,17 +34,19 @@ Passionate about designing, programming, and optimizing hardware-software system
 - Firmware development
 - Real-time systems
 - IoT
-- Robotics
 - PCB design
 - Embedded Linux
 - Computer vision (YOLOv4, OpenCV)
 - Custom Linux distributions (Yocto Project)
+- Robotic Process Automation (RPA)
+- Debugging and analysis (GDB, Valgrind)
 
 ## 🚀 About Me
 - I enjoy solving complex problems at the intersection of hardware and software.
 - Experienced in low-level firmware, device drivers, and hardware bring-up.
 - Comfortable with embedded Linux, custom Linux builds (Yocto), and AI/vision tasks on single-board computers.
 - Advocate for clean code and robust embedded architectures.
+- Enthusiastic about automation and debugging techniques.
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/zanthanh17/)  
