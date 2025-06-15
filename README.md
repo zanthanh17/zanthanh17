@@ -28,17 +28,6 @@ Passionate about designing, programming, and optimizing hardware-software system
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 
-### 🌟 Interests
-- Firmware development
-- Real-time systems
-- IoT
-- PCB design
-- Embedded Linux
-- Computer vision (YOLOv4, OpenCV)
-- Custom Linux distributions (Yocto Project)
-- Robotic Process Automation (RPA)
-- Debugging and analysis (GDB, Valgrind)
-
 ## 🚀 About Me
 - I enjoy solving complex problems at the intersection of hardware and software.
 - Experienced in low-level firmware, device drivers, and hardware bring-up.
